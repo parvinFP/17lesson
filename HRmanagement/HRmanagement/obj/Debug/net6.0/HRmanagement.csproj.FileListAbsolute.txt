@@ -1,0 +1,15 @@
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\HRmanagement.csproj.AssemblyReference.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\HRmanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\HRmanagement.AssemblyInfoInputs.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\HRmanagement.AssemblyInfo.cs
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\HRmanagement.csproj.CoreCompileInputs.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\bin\Debug\net6.0\HRmanagement.exe
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\bin\Debug\net6.0\HRmanagement.deps.json
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\bin\Debug\net6.0\HRmanagement.runtimeconfig.json
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\bin\Debug\net6.0\HRmanagement.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\bin\Debug\net6.0\ref\HRmanagement.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\bin\Debug\net6.0\HRmanagement.pdb
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\HRmanagement.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\ref\HRmanagement.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\HRmanagement.pdb
+C:\Users\Parvin\Desktop\OnlyLessonPro\HRmanagement\HRmanagement\obj\Debug\net6.0\HRmanagement.genruntimeconfig.cache
